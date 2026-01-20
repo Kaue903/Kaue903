@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá, eu sou o Kauê Rodrigues! 
 
-<!--
-**Kaue903/Kaue903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de T.I. no SENAI e apaixonado pelo mundo do desenvolvimento Backend. Atualmente estou focado em construir uma base sólida em Java e Bancos de Dados.
 
-Here are some ideas to get you started:
+- **Atualmente estou trabalhando em:** Projetos acadêmicos de CRUD e lógica de programação.
+- **Atualmente estou aprendendo:** Java, SQL (MySQL) e Git.
+- **Objetivo:** Minha primeira vaga como Dev Júnior ou Estágio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+**Linguagens:** Java, SQL
+**Ferramentas:** Git, GitHub, VS Code, Eclipse/IntelliJ
+**Conceitos:** POO, Lógica de Programação, Estrutura de Dados
+
+---
+
+📫 **Vamos conectar?**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%AA-rodrigues-da-silva-8b5138380/)
