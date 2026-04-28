@@ -9,7 +9,7 @@ Sou estudante de T.I. no SENAI e apaixonado pelo mundo do desenvolvimento Backen
 ---
 
 ### Tech Stack
-**Linguagens:** Java, SQL
+**Linguagens:** Python, SQL
 **Ferramentas:** Git, GitHub, VS Code, Eclipse/IntelliJ
 **Conceitos:** POO, Lógica de Programação, Estrutura de Dados
 
