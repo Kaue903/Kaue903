@@ -25,17 +25,8 @@ Atualmente construindo uma base sólida em **Java**, **Banco de Dados** e **boas
 ### Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea" />
 </p>
-
----
-
-## 📌 Atualmente focado em
-
-- Evoluir em **Java Backend**
-- Aprender mais sobre **Banco de Dados Relacional**
-- Construir projetos para **portfólio**
-- Me preparar para vagas em **grandes empresas e bancos**
 
 ---
 
