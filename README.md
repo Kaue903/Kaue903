@@ -1,19 +1,46 @@
-### Olá, eu sou o Kauê Rodrigues! 
+# Olá, eu sou Kauê Rodrigues 👋
 
-Sou estudante de T.I. no SENAI e apaixonado pelo mundo do desenvolvimento Backend. Atualmente estou focado em construir uma base sólida em Java e Bancos de Dados.
-
-- **Atualmente estou trabalhando em:** Projetos acadêmicos de CRUD e lógica de programação.
-- **Atualmente estou aprendendo:** Java, SQL (MySQL) e Git.
-- **Objetivo:** Minha primeira vaga como Dev Júnior ou Estágio.
+💻 Estudante de T.I. no SENAI, focado em desenvolvimento **Backend**.  
+Atualmente construindo uma base sólida em **Java**, **Banco de Dados** e **boas práticas de programação**.
 
 ---
 
-### Tech Stack
-**Linguagens:** Python, SQL
-**Ferramentas:** Git, GitHub, VS Code, Eclipse/IntelliJ
-**Conceitos:** POO, Lógica de Programação, Estrutura de Dados
+## 🚀 Sobre mim
+
+- 📚 Atualmente estudando **Java**, **SQL (MySQL)** e **Git**
+- 🛠️ Desenvolvendo projetos acadêmicos de **CRUD**, **POO** e **lógica de programação**
+- 🎯 Buscando minha **primeira oportunidade como Desenvolvedor Júnior ou Estagiário**
+- 🧠 Interesse em **Backend**, **APIs REST** e **sistemas corporativos**
 
 ---
 
-📫 **Vamos conectar?**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%AA-rodrigues-da-silva-8b5138380/)
+## 🛠️ Tech Stack
+
+### Linguagens e Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,mysql,js,nodejs,php,python,git,github" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" />
+</p>
+
+---
+
+## 📌 Atualmente focado em
+
+- Evoluir em **Java Backend**
+- Aprender mais sobre **Banco de Dados Relacional**
+- Construir projetos para **portfólio**
+- Me preparar para vagas em **grandes empresas e bancos**
+
+---
+
+## 📫 Vamos nos conectar
+
+<a href="https://www.linkedin.com/in/kau%C3%AA-rodrigues-da-silva-8b5138380/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
