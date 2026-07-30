@@ -1,14 +1,14 @@
 # Olá, eu sou Kauê Rodrigues 👋
 
-💻 Estudante de T.I. no SENAI, focado em desenvolvimento **Backend**.  
+💻 Estudante de T.I. no SENAI, focado em desenvolvimento **Full-stack**.  
 Atualmente construindo uma base sólida em **Java**, **Banco de Dados** e **boas práticas de programação**.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 📚 Atualmente estudando **Java**, **SQL (MySQL)** e **Git**
-- 🛠️ Desenvolvendo projetos acadêmicos de **CRUD**, **POO** e **lógica de programação**
+- 📚 Atualmente estudando **Python**, **SQL (MySQL)**
+- 🛠️ Desenvolvendo projetos acadêmicos de **CRUD**, **POO** e **Lógica de programação**
 - 🎯 Buscando minha **primeira oportunidade como Desenvolvedor Júnior ou Estagiário**
 - 🧠 Interesse em **Backend**, **APIs REST** e **sistemas corporativos**
 
