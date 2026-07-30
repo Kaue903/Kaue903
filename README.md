@@ -1,16 +1,16 @@
 # Olá, eu sou Kauê Rodrigues 👋
 
-💻 Estudante de T.I. no SENAI, focado em desenvolvimento **Full-stack**.  
-Atualmente construindo uma base sólida em **Java**, **Banco de Dados** e **boas práticas de programação**.
+💻 Estudante de T.I. no SENAI, focado em desenvolvimento **Full-stack**.
+Atualmente construindo uma base sólida em **Python**, **Banco de Dados** e **boas práticas de programação**.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 📚 Atualmente estudando **Python**, **SQL (MySQL)**
-- 🛠️ Desenvolvendo projetos acadêmicos de **CRUD**, **POO** e **Lógica de programação**
-- 🎯 Buscando minha **primeira oportunidade como Desenvolvedor Júnior ou Estagiário**
-- 🧠 Interesse em **Backend**, **APIs REST** e **sistemas corporativos**
+* 📚 Atualmente estudando **Python** e **SQL (MySQL)**
+* 🛠️ Desenvolvendo projetos acadêmicos de **CRUD**, **POO** e **Lógica de Programação**
+* 🎯 Buscando minha **primeira oportunidade como Desenvolvedor Júnior ou Estagiário**
+* 🧠 Interesse em **Backend**, **APIs REST** e **sistemas corporativos**
 
 ---
 
@@ -19,7 +19,7 @@ Atualmente construindo uma base sólida em **Java**, **Banco de Dados** e **boas
 ### Linguagens e Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,js,nodejs,php,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,nodejs,php,git,github" />
 </p>
 
 ### Ferramentas
