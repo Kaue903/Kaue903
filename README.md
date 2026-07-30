@@ -1,11 +1,11 @@
 # Olá, eu sou Kauê Rodrigues 👋
 
-💻 Estudante de T.I. no SENAI, focado em desenvolvimento **Full-stack**.
+Estudante de T.I. no SENAI, focado em desenvolvimento **Full-stack**.
 Atualmente construindo uma base sólida em **Python**, **Banco de Dados** e **boas práticas de programação**.
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 * 📚 Atualmente estudando **Python** e **SQL (MySQL)**
 * 🛠️ Desenvolvendo projetos acadêmicos de **CRUD**, **POO** e **Lógica de Programação**
@@ -14,7 +14,7 @@ Atualmente construindo uma base sólida em **Python**, **Banco de Dados** e **bo
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Linguagens e Tecnologias
 
