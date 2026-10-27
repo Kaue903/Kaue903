@@ -35,7 +35,7 @@ Site desenvolvido para apresentar cursos técnicos, organizar informações e fa
 ### Linguagens e desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,php,cpp,html,css,nodejs" alt="Linguagens e tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,nodejs" alt="Linguagens e tecnologias" />
 </p>
 
 ### Bancos de dados
